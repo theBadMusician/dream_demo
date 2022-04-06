@@ -30,6 +30,6 @@ roslaunch deepDreamEZ deep_dream_node.launch
 cd ~/dream_ws/src/dream_demo && ./dream.sh
 ```
 
-6. In the window/tab where you've run the ./dream.sh script you will be able to pick which neural net model to use. NOTE! It takes a while to download the pretrained models while running the a dream for the first time, so do that before hand.
+6. In the window/tab where you've run the ./dream.sh script you will be able to pick which neural net model to use. NOTE! It takes a while to download the pretrained models while running a dream for the first time, so do that before hand.
 
-7. You're able to see the dreamified image in the /dream/img topic.
+7. You're able to see the dreamified image in the '/dream/img' topic.
