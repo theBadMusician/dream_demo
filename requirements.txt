@@ -5,4 +5,5 @@ torchvision==0.6.0
 numpy
 scipy==1.5.1
 opencv-python==4.2.0.32
-imageio
+imageio==2.9.0
+rospkg
